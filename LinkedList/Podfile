@@ -1,0 +1,244 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target '__block' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for __block
+
+end
+
+target 'Algorithm' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Algorithm
+
+end
+
+target 'autorelease_时机' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for autorelease_时机
+
+end
+
+target 'AutoReleasePool' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for AutoReleasePool
+
+end
+
+target 'autoreleasepoolpage_size' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for autoreleasepoolpage_size
+
+end
+
+target 'Block' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Block
+
+end
+
+target 'block类型' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for block类型
+
+end
+
+target 'Category' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Category
+
+end
+
+target 'copy_test' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for copy_test
+
+end
+
+target 'group_test' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for group_test
+
+end
+
+target 'Initialize调用' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Initialize调用
+
+end
+
+target 'InterView' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for InterView
+
+end
+
+target 'isequal&&Hash' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for isequal&&Hash
+
+end
+
+target 'iskindofclass' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for iskindofclass
+
+end
+
+target 'KVO' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for KVO
+
+end
+
+target 'LockDemo' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for LockDemo
+
+end
+
+target 'Msg_send' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Msg_send
+
+end
+
+target 'OSSpinLock' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for OSSpinLock
+
+end
+
+target 'serial__concurrent' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for serial__concurrent
+
+end
+
+target 'Signal&&Exception' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Signal&&Exception
+
+Pod 
+
+end
+
+target '内存布局' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for 内存布局
+
+end
+
+target '卡顿监测' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for 卡顿监测
+
+end
+
+target '对象比较' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for 对象比较
+
+end
+
+target '异步栅栏函数__多读单写' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for 异步栅栏函数__多读单写
+
+end
+
+target '栈' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for 栈
+
+end
+
+target '死锁' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for 死锁
+
+end
+
+target '用栈实现队列' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for 用栈实现队列
+
+end
+
+target '线程与Runloop' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for 线程与Runloop
+
+end
+
+target '读写锁_多读单写' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for 读写锁_多读单写
+
+end
+
+target '队列' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for 队列
+
+end
